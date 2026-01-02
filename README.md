@@ -34,6 +34,8 @@ Built with **React**, **Tailwind CSS**, and **React Router DOM**,
 
 3. **Search Country By name** - Search country by name .
    Endpoint: `https://localhost:3000/api/countries/{name}`
+4. **Get Countries By Region** -
+   Endpoint: `https://localhost:3000/api/countries/region/{name}`
 
 ---
 
