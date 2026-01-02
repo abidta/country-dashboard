@@ -81,6 +81,5 @@ npm run dev
 Open the app
 
 Navigate to http://localhost:5173
- (Vite default) in your browser.
 
 ```
