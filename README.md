@@ -21,23 +21,8 @@ Built with **React**, **Tailwind CSS**, and **React Router DOM**,
 
 ---
 
-## Folder Structure
-src/
-├── components/
-│ ├── CountryCard.jsx
-│ ├── SearchBar.jsx
-│ ├── Filters.jsx
-├── pages/
-│ ├── CountryList.jsx
-│ ├── CountryDetails.jsx
-├── services/
-│ ├── api.js
-├── context/
-│ ├── FavoritesContext.jsx
-├── App.jsx
-└── Main.jsx
 
-### Backend
+# Backend
 
    used express framework to build a REST API for the backend.
 
